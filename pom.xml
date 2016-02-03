@@ -15,7 +15,7 @@
     </parent>
 
     <properties>
-	<neo4j.version>2.1.7</neo4j.version>
+		<neo4j.version>2.2.5</neo4j.version>
     </properties>
 
     <dependencies>
